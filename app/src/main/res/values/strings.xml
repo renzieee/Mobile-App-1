@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Converter App 1</string>
+    <string name="appHeading" />
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="textRes">0.0</string>
+    <string name="app_names">Temperature Converter App</string>
+</resources>
